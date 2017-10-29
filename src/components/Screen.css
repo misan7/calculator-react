@@ -1,8 +1,9 @@
 .screen { 
 	display: flex;
-	flex-direction: row-reverse;
-	border: 1px solid gray;
-	padding: 5px;
-	padding: 3px;
-	margin-bottom: 10px;
+	justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 3px;
+	color: white;
+	background-color: black;
+	height: 40px;
 }
