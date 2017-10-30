@@ -1,8 +1,8 @@
 # REACT CALCULATOR
 
-This repository contains a **Calculator** made with **React.js** and bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
+This project shows the basics of **React.js** by implementing a simple **Calculator** component bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
 
-This basic calculator is based on one demo showed by [Ferran Maylinch](https://github.com/fmaylinch) in a React.js Mini Bootcamp promoted by World Tech Makers.
+This calculator is based on one demo showed by [Ferran Maylinch](https://github.com/fmaylinch) in a React.js Mini Bootcamp promoted by World Tech Makers.
 
 To use `create-react-app`:
 
